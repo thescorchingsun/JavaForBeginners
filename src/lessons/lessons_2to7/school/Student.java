@@ -1,3 +1,5 @@
+package lessons.lessons_2to7.school;
+
 public class Student {
 
     public static void main (String[] args) {

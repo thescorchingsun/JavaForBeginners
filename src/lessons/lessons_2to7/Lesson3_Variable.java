@@ -1,8 +1,8 @@
-package lessons;
+package lessons.lessons_2to7;
 
 import java.sql.SQLOutput;
 
-public class Lesson3 {
+public class Lesson3_Variable {
 
     static int a;
     static Integer A;
